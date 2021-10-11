@@ -1,7 +1,5 @@
 <?php
 
-echo "test";
+echo "hello!";
 
-echo "version2";
-
-echo "version3";
+echo "welcome!";
